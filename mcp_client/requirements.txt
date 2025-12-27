@@ -1,3 +1,4 @@
 langchain-mcp-adapters
 langchain_google_genai
 
+streamlit
