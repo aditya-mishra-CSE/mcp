@@ -1,0 +1,11 @@
+1.Create a virtual environment and activate it.
+2.pip install fastmcp
+3."local-mcp": {
+      #jo virtual environment banaya hai folder ke andra usme Scripts mai python.exe ki location
+      "command": "C:/Users/username/Downloads/mcp-s/env7/Scripts/python.exe",
+      "args": [
+        #jahan main.py file hi uski location
+        "C:/Users/username/Downloads/mcp-s/main.py"
+      ],
+      "transport": "stdio"
+    }
