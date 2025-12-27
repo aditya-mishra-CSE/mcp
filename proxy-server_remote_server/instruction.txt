@@ -1,0 +1,1 @@
+This proxy basically allows us to use this remote mcp server in claude desktop
